@@ -1,4 +1,2 @@
 # Projects
 ejercicios 
-
-hello world. 
